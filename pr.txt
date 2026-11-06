@@ -1,0 +1,1 @@
+Fichier ajouté pour l'exercice 5 (PR via GitHub CLI)
